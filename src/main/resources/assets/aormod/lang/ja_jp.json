@@ -1,0 +1,6 @@
+{
+  "message.aormod.rail.start_selected": "レール始点を選択しました",
+  "message.aormod.rail.too_far": "接続点が遠すぎます（最大: 100ブロック）",
+  "message.aormod.rail.placed": "レールを設置しました",
+  "message.aormod.rail.failed": "レールの設置に失敗しました"
+} 

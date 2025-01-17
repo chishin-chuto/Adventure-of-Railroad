@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "aormod:block/rail_connection_point" }
+  }
+} 
